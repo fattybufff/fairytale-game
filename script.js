@@ -1,4 +1,4 @@
-let button = document.querySelector("button");
+ let button = document.querySelector("button");
 let words = document.querySelector("p");
 
  button.addEventListener("click", function() {

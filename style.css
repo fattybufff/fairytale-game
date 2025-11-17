@@ -1,5 +1,6 @@
 p{
     font-size: 30px;
+    color: #fff;
 }
 
 div{
@@ -43,3 +44,7 @@ button{
   right: -20px;
   transition: 0.4s;
     }
+
+    body {
+  background-image: url("scout-logo.png");
+}
