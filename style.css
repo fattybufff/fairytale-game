@@ -47,4 +47,8 @@ button{
 
     body {
   background-image: url("scout-logo.png");
-}
+   padding: 20px;
+    }
+
+    div{width:50%;
+margin:0 auto;}
