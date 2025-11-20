@@ -1,7 +1,6 @@
- let button = document.querySelector("button");
+<button id="myButton">Go to Index</button>
 
-let dblclickBtn = document.querySelector("#dblclickBtn");
- 
- button.addEventListener("dblclick", function () {
-  header.innerHTML = "Event: dblclick";
+
+document.getElementById("myButton").addEventListener("dblclick", function () {
+    window.location.href = "index.html";
 });
