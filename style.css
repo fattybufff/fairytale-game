@@ -22,7 +22,7 @@ button{
   overflow: hidden;
   border-radius: 5px;
   background-color: #235705;
-  border-color:tan;
+  border-color:#d2b48c;
 }
 .css-button-arrow--green:hover {
   border-radius: 5px;
@@ -50,10 +50,7 @@ button{
    padding: 20px;
     }
 
-
-
-
 .main{ width: 50%;
    border:2px solid rgb(9, 53, 9); 
-   background:grey;
    margin:0 auto;
+}
